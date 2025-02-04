@@ -1,4 +1,5 @@
 Rencana Tambahan
 
 - Setiap bulan target 2-4 Project untuk di upload ke GitHub
-- Membuat Web Portofolio di bulan Februari ini
+- Membuat Web Portofolio di bulan Februari ini 
+  * Sebelum puasa sudah jadi ya
